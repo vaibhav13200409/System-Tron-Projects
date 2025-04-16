@@ -1,4 +1,4 @@
-# System-Tron-Projects
+# System-Tron-Projects of Java
 ☕ Java Programming Internship Projects – Systron
 This repository contains the Java programming projects I developed during my internship at Systron (System Tron). The internship focused on core Java concepts, object-oriented programming (OOP), and hands-on application development to build real-world problem-solving skills.
 
